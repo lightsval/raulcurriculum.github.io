@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(255, 245, 230);
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#izq {
+
+    float: left;
+    text-align: left;
+    background-color: bisque;
+    width: 1200px;
+    height: 800%;
+}
+#izq h2 {
+
+text-decoration: solid;
+font-style: italic;
+
+}
+
+#izq p {
+
+padding-right: 20cm;
+padding-left: 0.5cm;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#list {
+
+    text-align: center;
+    background-color: rgb(245, 187, 133);
+    width: 5px;
+    height: 30%;
+    padding-right: 12cm;
+    padding-left: 0.5cm;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+#izq img{
+
+    padding-left: 0.5cm;
+}
+    
+
